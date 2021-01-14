@@ -1,0 +1,24 @@
+1. build cli
+2. welcome user, prompt to either select a list, or exit program
+3. if they select list, print the list of spells
+    1.spell name
+    2.spell name
+4. they can select spells by name to print details of the spell
+    1.acid arrow
+       desc.. Fires arrow in acid.. example
+       range..
+       duration..
+5. if they select exit, goodbye exit program.
+
+3 classes :
+CLI - controller in which communicates with my user
+spells - where objects are created and stored for user display
+API - bring in external, consume api here, instantiate my objects
+
+
+
+API methods
+        1. grab all the spells and store in spells class
+        2. grab all the attributes for the spell
+             1.get_spell
+             2.get_spell_info
