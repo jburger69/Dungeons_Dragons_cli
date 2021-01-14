@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+To run the gem in your termminal ---> ./bin/executable
 
 ## Development
 
